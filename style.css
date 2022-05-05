@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(51, 160, 51);
+  text-align: center;
+  margin: 0.5in 1in;
+}
+
+.button {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #2698be;
+  color: black;
+  border-radius: 12px;
+  padding: 12px 28px;
+  font-size: 16px;
+}
+
+h1 {
+  color: red;
+}
